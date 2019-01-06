@@ -32,7 +32,7 @@ For the tools:
 
 # Tech
 
-  - [Jacksum](https://sourceforge.net/projects/jacksum/): calculate CRC32_BZIP2
+  - [Jacksum](https://project-jacksum.loefflmann.net/): calculate CRC32_BZIP2
   - [mymc](http://www.csclub.uwaterloo.ca:11068/mymc/): manipulate PCSX2 memory cards
   - PowerShell and Batch code by me
   - Game source code by me
