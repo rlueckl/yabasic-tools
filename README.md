@@ -25,8 +25,10 @@ For the tools:
   - Change the `MEMDIR` to the directory with your PCSX2 memory card file
     - Alternatively you can use **crc_only.bat** if you want to copy the source to a real memory card and play on your PlayStation 2)
   - I've included a memory card file (**Mcd001.ps2**) with a sample source code (**BESCES-50008SAMPLE**) so you know how the structure needs to look like (icon.sys, icon.ico and the code with checksum)
-  - Put your source code in the "Source" directory with *.vb* as extension
+  - Put your source code in the "Source" directory with *.vb* (*) as extension
   - Run the Batch file
+
+*: I'm using *.vb* (Visual Basic) as an extension, because that's the closest thing to good syntax highlighting in Notepad++ as you can get with Basic. Feel free to make you own YaBasic syntax highlighting with UDL and share the plugin!
 
 # Tech
 
