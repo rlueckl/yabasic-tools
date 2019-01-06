@@ -1,6 +1,6 @@
 @echo off
 
-SET BASEDIR=C:\YaBasic
+SET BASEDIR=C:\yabasic-tools
 SET SRCFILE=BESCES-50008SAMPLE
 SET MEMFILE="C:\Users\DRuNKeN MaSTeR\Documents\PCSX2\memcards\Mcd001.ps2"
 
