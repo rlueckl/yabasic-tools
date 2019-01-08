@@ -1,6 +1,6 @@
 # yabasic-tools
 
-Please see my blogpost (here) on more information about this repo.
+Please see my blogpost [here](https://rrrgamer.blogspot.com/2019/01/re-hacking-ps2-game-development.html) on more information about this repo.
 
 # Usage
 
